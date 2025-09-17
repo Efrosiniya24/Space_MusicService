@@ -4,7 +4,6 @@
 
 Сервер программного средства: https://github.com/Efrosiniya24/Space_MusicService_Server
 
-
 Клиент программного средства: https://github.com/Efrosiniya24/Space_MusicService_Client
 
 ## **Содержание**
