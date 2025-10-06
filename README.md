@@ -64,6 +64,14 @@
 
 Описание переходов между части ПС для всех ролей из диаграммы ВИ (название ролей должны совпадать с тем, что указано на c4-модели и диаграмме вариантов использования)
 
+**User-flow для слушателя**
+<img width="1781" height="1791" alt="image" src="https://github.com/user-attachments/assets/1b028ae8-3c73-4144-a501-8b7faae86dc9" />
+
+**User-flow для музыкального куратора**
+<img width="2332" height="1581" alt="image" src="https://github.com/user-attachments/assets/947e25bf-4923-40ba-841a-7bf989dd1e0a" />
+
+**User-flow для системного администратора**
+<img width="1312" height="1422" alt="image" src="https://github.com/user-attachments/assets/ad4610ed-7b1b-49db-bbff-8ec21bdf77cc" />
 
 ---
 
