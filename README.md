@@ -50,7 +50,14 @@
 
 ### Схема данных
 
-Описание отношений и структур данных, используемых в ПС. Также представить скрипт (программный код), который необходим для генерации БД
+**Схема данных пользователей и общественных заведений (users)**
+<img width="974" height="717" alt="image" src="https://github.com/user-attachments/assets/019ce0f3-1b53-41a1-9d86-0d4bd6720e83" />
+
+**Схема данных медиа-контента (media)**
+<img width="974" height="523" alt="image" src="https://github.com/user-attachments/assets/2657dc65-962a-4c9f-b26b-e80c18b70fd4" />
+
+**Схема данных предпочтений (preferences)**
+<img width="974" height="792" alt="image" src="https://github.com/user-attachments/assets/cdb496cc-3f31-4b63-bcfc-f8c0e52700e8" />
 
 ---
 
