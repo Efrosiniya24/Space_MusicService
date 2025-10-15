@@ -15,7 +15,7 @@
 	1. [C4-модель](#C4-модель)
   
    **Контейнерный уровень диаграммы C4**
-![Uploading image.png…]()
+	<img width="1161" height="1632" alt="image" src="https://github.com/user-attachments/assets/0a199a73-2d87-469c-8a2a-b2736ae32ae6" />
 
  	**Компонентный уровень диаграммы C4**
 	<img width="2291" height="1622" alt="image" src="https://github.com/user-attachments/assets/5663f5bb-29f1-4a3b-9770-5c2e8d3ce5d5" />
