@@ -80,7 +80,39 @@
 **User-flow для системного администратора**
 <img width="1312" height="1422" alt="image" src="https://github.com/user-attachments/assets/ad4610ed-7b1b-49db-bbff-8ec21bdf77cc" />
 
----
+## **Пользовательский интерфейс**
+
+### Примеры экранов UI
+
+**Форма авторизации слушателя**
+<img width="1253" height="706" alt="image" src="https://github.com/user-attachments/assets/f069fcbc-884f-482e-9b94-b79100b5d870" />
+
+**Форма для регистрации слушателя**
+<img width="1251" height="702" alt="image" src="https://github.com/user-attachments/assets/dea0b5de-1fc7-4c0a-b185-62e04166ffe8" />
+
+**Главная страница слушателя**
+<img width="1252" height="706" alt="image" src="https://github.com/user-attachments/assets/1ad8be8e-f560-4aba-8415-2b2fc001ecfc" />
+
+**Продолжение главной страницы слушателя**
+<img width="1250" height="827" alt="image" src="https://github.com/user-attachments/assets/18e6fb3f-0c17-4794-b434-f5c4b8c94ea4" />
+
+**Страница с выбором общественных заведений для слушателя**
+<img width="1111" height="882" alt="image" src="https://github.com/user-attachments/assets/a81541e4-4fc7-4479-a66f-aa7e102e61b4" />
+
+**Страница общественного заведения**
+<img width="1111" height="805" alt="image" src="https://github.com/user-attachments/assets/01375d6d-a2dc-4c6e-b323-eb113c9c5e99" />
+
+**Страница для добавления предпочтения**
+<img width="1107" height="828" alt="image" src="https://github.com/user-attachments/assets/c0ec7e4c-95f7-495b-9390-6c5d52f3afe9" />
+
+**Заполненная страница для добавления предпочтения**
+<img width="1113" height="834" alt="image" src="https://github.com/user-attachments/assets/535d3b0c-5941-48d2-8b69-b2e0e6565104" />
+
+**Проигрывание и составление плейлиста на стороне музыкального куратора**
+<img width="1110" height="834" alt="image" src="https://github.com/user-attachments/assets/9a1fced9-9970-4523-8f99-49ce4b27a673" />
+
+**Страница системного администратора для работы с исполнителями**
+<img width="1154" height="960" alt="image" src="https://github.com/user-attachments/assets/f7a7ca20-a2b2-45f9-bdff-8d7d870d794c" />
 
 ## **Детали реализации**
 
