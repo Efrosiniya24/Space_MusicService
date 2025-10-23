@@ -117,6 +117,9 @@
 **Страница системного администратора для изменении информации об исполнителе**
 <img width="1920" height="1090" alt="image" src="https://github.com/user-attachments/assets/dc341f7c-5034-4178-a3c0-1e0dfa06c047" />
 
+**Страница системного администратора для создания альбома**
+<img width="1920" height="1086" alt="image" src="https://github.com/user-attachments/assets/43cef8a0-2679-4d77-8b61-8c299dbee89c" />
+
 ## **Детали реализации**
 
 ### UML-диаграммы
