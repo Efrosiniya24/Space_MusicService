@@ -114,6 +114,9 @@
 **Страница системного администратора для работы с исполнителями**
 <img width="1154" height="960" alt="image" src="https://github.com/user-attachments/assets/f7a7ca20-a2b2-45f9-bdff-8d7d870d794c" />
 
+**Страница системного администратора для изменении информации об исполнителе**
+<img width="1920" height="1090" alt="image" src="https://github.com/user-attachments/assets/dc341f7c-5034-4178-a3c0-1e0dfa06c047" />
+
 ## **Детали реализации**
 
 ### UML-диаграммы
