@@ -50,7 +50,13 @@
 <img width="442" height="751" alt="image" src="https://github.com/user-attachments/assets/5cda1f6f-6334-4fb1-82ce-d7205c8e3049" />
 
 **Диаграмма варинтов использования**
-![Uploading image.png…]()
+<img width="1041" height="541" alt="image" src="https://github.com/user-attachments/assets/31dbebba-21fc-4888-b8e5-fbd6fe03d621" />
+
+**Диаграмма пакетов микросервиса media-content**
+<img width="1321" height="1046" alt="image" src="https://github.com/user-attachments/assets/0669c625-13b3-4fb7-9c4d-a3ff362d5e19" />
+
+**Диаграмма последовательности процесса "Оставить предпочтения"**
+<img width="1241" height="1091" alt="image" src="https://github.com/user-attachments/assets/ad78cf41-f32e-4bca-84c6-aebb90976b6d" />
 
 ### C4-модель
 
