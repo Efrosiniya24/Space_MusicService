@@ -49,6 +49,8 @@
 **Диаграмма активности "Поставить плейлист на проигрывание"**  
 <img width="442" height="751" alt="image" src="https://github.com/user-attachments/assets/5cda1f6f-6334-4fb1-82ce-d7205c8e3049" />
 
+**Диаграмма варинтов использования**
+![Uploading image.png…]()
 
 ### C4-модель
 
